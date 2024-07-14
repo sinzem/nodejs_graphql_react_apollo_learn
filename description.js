@@ -10,3 +10,4 @@
 // Client
 
 // npx create-react-app my-app - создаем новое приложение
+// npm i @apollo/client graphql - apollo для работы с запросами, заодно кеширует, чтоб не повторялись
