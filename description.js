@@ -1,8 +1,12 @@
+// GraphQl - синтаксис для запросов(восновном используется для загрузки данных с сервера). Позволяет получить не полностью данные, определенные эндпоинтом, как на http серверах, а любые нужные поля данных
+
 // Server
     // npm init -y - быстрая инициализация
+    // npm i express graphql express-graphql cors nodemon
+
+    // Создание сервера, подключение graphql и примеры команд в index.js
 
 
 // Client
 
 // npx create-react-app my-app - создаем новое приложение
-// npm i express graphql express-graphql cors nodemon
