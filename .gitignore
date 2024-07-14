@@ -23,9 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 /client/node_modules
-/client/README.md
 /client/package-lock.json
-/client/.gitignore
 
 /server/node_modules
 /server/package-lock.json
