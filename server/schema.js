@@ -6,7 +6,7 @@ const schema = buildSchema(`
     type User {
         id: ID
         userName: String
-        age: Int
+        age: String
         posts: [Post]
     }
     type Post {
@@ -18,7 +18,7 @@ const schema = buildSchema(`
     input UserInput {
         id: ID
         userName: String!
-        age: Int!
+        age: String!
         posts: [PostInput]
     }
     input PostInput {
